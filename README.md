@@ -4,7 +4,7 @@
 
 <!-- banner de profesión -->
 <p align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BBC5BB&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Machine+Learning+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BBC5BB&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Data+Analyst" alt="Typing SVG" /></a>
 </p>
 
 <!--
