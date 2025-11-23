@@ -10,7 +10,7 @@
 Ubicación: Lima - Perú | Correo: jchiroques@uni.pe
 
 ## 📝 Acerca de mí
-Soy Data Scientist con **más de 4 años de experiencia** en el desarrollo de soluciones end-to-end de Machine Learning y análisis avanzado de datos . Me especializo en el diseño de pipelines ETL, modelos predictivos y *deployment* en producción . Actualmente, curso una **Maestría en Inteligencia Artificial** en la Universidad Nacional de Ingeniería (UNI) , enfocada en Machine Learning, Deep Learning y Analytics Avanzada . Mi trayectoria se centra en generar valor de negocio a través de la automatización, *forecasting* y segmentación inteligente utilizando **Python, SQL y Azure** .
+Soy Data Scientist con **más de 5 años de experiencia** en el desarrollo de soluciones end-to-end de Machine Learning y análisis avanzado de datos . Me especializo en el diseño de pipelines ETL, modelos predictivos y *deployment* en producción . Actualmente, curso una **Maestría en Inteligencia Artificial** en la Universidad Nacional de Ingeniería (UNI) , enfocada en Machine Learning, Deep Learning y Analytics Avanzada . Mi trayectoria se centra en generar valor de negocio a través de la automatización, *forecasting* y segmentación inteligente utilizando **Python, SQL y Azure** .
 
 ## 🛠️ Stack Técnico y Habilidades
 Mi experiencia abarca herramientas clave para el ecosistema de datos y ML :
